@@ -5,6 +5,9 @@ A1: The .git file is created which notifies git that it should be tracking the f
 Q2: How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+A2: The staging aread is an intermediate area that allows you to add files from
+the working directory to a "candidate" commit.  
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
