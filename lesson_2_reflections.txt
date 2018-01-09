@@ -8,16 +8,31 @@ What value do you think it offers?
 A2: The staging aread is an intermediate area that allows you to add files from
 the working directory to a "candidate" commit.  
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+Q3: How can you use the staging area to make sure you have one commit per 
+logical change?
 
-What are some situations when branches would be helpful in keeping your history
+A3: You can choose to only add the files required for each change one at a time
+
+Q4: What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-How do the diagrams help you visualize the branch structure?
+A4: I would use a branch if I wanted to experiment with a major change and did not
+want to disrupt everyone else who was working on the master.
 
-What is the result of merging two branches together? Why do we represent it in
+Q5: How do the diagrams help you visualize the branch structure?
+
+A5: They allow you to understand the parent / child relationship in an 
+easier way.
+
+Q6: What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+A7: When the two branches are merged together sucessfully, you have a single branch
+of code with a single label that contains all of the code for both of the original 
+branches.
+
+Q8: What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+A8: You have less of a chance of the automation doing something that you did
+not really intend.  
