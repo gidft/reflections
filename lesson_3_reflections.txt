@@ -4,10 +4,11 @@ local?
 A1: You can use github to backup your work rather than keeping it local 
 and risk losing it due to hardware failure.
 
-Why might you want to always pull changes manually rather than having Git
+Q2: Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+A2: Because someone else could be working on the same repository and this
+could cause your changes to be overwritten.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
