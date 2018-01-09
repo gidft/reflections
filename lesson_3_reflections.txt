@@ -20,7 +20,7 @@ existing commit.
 Q4: What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-A4: 
+A4: You you can work offline.  
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
