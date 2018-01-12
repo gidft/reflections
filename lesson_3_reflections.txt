@@ -28,7 +28,8 @@ and what would be harder?
 A5: We could share files on a nas share but it wouldn't do a very good job of
 tracking changes.  
 
-When would you want to make changes in a separate branch rather than directly in
+Q6: When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+A7: Anytime I am trying to create new functionality that may break existing
+functionality in master.
